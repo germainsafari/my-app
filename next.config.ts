@@ -6,4 +6,5 @@ const nextConfig: NextConfig = {
   // ... other Next.js configurations
 };
 
+
 export default nextConfig;
